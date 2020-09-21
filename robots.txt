@@ -1,1 +1,1 @@
-Sitemap: http://www.sergeobam.isomora.com//portfolio/sitemap.xml
+Sitemap: https://obeshor.github.io/portfolio/sitemap.xml
