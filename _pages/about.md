@@ -30,4 +30,4 @@ I'm a Machine Learning Engineer and co-founder at [isoMora](https://isomora.com/
 
  --------------
 
-![]({{site.baseurl}}/images/gde_badge.png "https://bit.ly/gde-sp")
+![]({{site.baseurl}}/images/diagram.png "https://github.com/fastai/fastpages")
