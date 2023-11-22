@@ -1,19 +1,27 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Yannick Serge Obam"
+image: images/profile.jpeg
 about:
   template: jolla
+
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/OBAMSerge
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/yannick-serge-obam
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/obeshor
+    - icon: envelope
+      text: Contact me
+      href: mailto:yannicksergeobam@gmail.com
 
 ---
 
-About this blog
+I am a Sr. Machine learning Engineer  with 5+ years of experience. I design and implement modular, scalable, and production-ready machine learning systems for compagnies worldwide.
+
+As Google Developer Expert in AI/ML, I contributed by speaking at conferences, writing ML/Tensorflow  tutorials and leading workshops.
+If you would like to find out more about one of my projects, you can check it out along with others [here](projects.qmd "Projects Page").
+
