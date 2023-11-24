@@ -13,5 +13,11 @@
   },
   "resume.qmd": {
     "resume.html": "e5a4d3e1"
+  },
+  "posts/green doctor/index.qmd": {
+    "index.html": "37be39c6"
+  },
+  "projects.qmd": {
+    "projects.html": "92dfb9d8"
   }
 }
