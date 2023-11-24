@@ -19,5 +19,11 @@
   },
   "projects.qmd": {
     "projects.html": "92dfb9d8"
+  },
+  "projects/vehicule segmentation/projects.qmd": {
+    "projects.html": "34fddf4d"
+  },
+  "projects/green doctor/projects.qmd": {
+    "projects.html": "27055697"
   }
 }

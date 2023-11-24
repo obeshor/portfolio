@@ -5,10 +5,14 @@ website:
   title: "Yannick Serge Obam"
   navbar:
     left:
-      - href: index.qmd
+      - href: about.qmd
         text : Home
       - href: projects.qmd
         text : Projects
+      - href: talks.qmd
+        text : Talks
+      - href: index.qmd
+        text : Blogs
       - href: resume.qmd
         text : Resume
      
