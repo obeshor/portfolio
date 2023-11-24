@@ -1,0 +1,9 @@
+---
+title: "Vehicule Segmentation"
+author: "Yannick Serge Obam"
+date: "2023-11-23"
+categories: [news, code, analysis]
+image: "image.png"
+---
+
+This is a post with executable code.

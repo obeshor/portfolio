@@ -3,15 +3,15 @@
     "listing": "/index.html",
     "items": [
       "/posts/post-with-code/index.html",
+      "/posts/green doctor/index.html",
       "/posts/welcome/index.html"
     ]
   },
   {
     "listing": "/projects.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/green doctor/index.html",
-      "/posts/welcome/index.html"
+      "/projects/vehicule segmentation/projects.html",
+      "/projects/green doctor/projects.html"
     ]
   }
 ]

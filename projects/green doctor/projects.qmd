@@ -1,0 +1,9 @@
+---
+title: "Green Doctor"
+author: "Yannick Serge Obam"
+date: "2023-11-21"
+categories: [news, code, analysis]
+image: "image.webp"
+---
+
+This is a post with executable code.
